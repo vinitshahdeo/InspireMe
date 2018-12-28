@@ -1,0 +1,35 @@
+{
+  "name": "inspire-me",
+  "version": "1.0.0",
+  "description": "A basic electron app to display quotes as notification bar",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha tests/test.js",
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinitshahdeo/InspireMe.git"
+  },
+  "keywords": [
+    "desktop",
+    "app",
+    "electron",
+    "app",
+    "basic",
+    "app",
+    "notifications",
+    "inspirational",
+    "quotes"
+  ],
+  "author": "Vinit Shahdeo <vinitshahdeo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vinitshahdeo/InspireMe/issues"
+  },
+  "homepage": "https://github.com/vinitshahdeo/InspireMe#readme",
+  "dependencies": {
+    "electron": "^4.0.0",
+    "inspirational-quotes": "^1.0.5"
+  }
+}
