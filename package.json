@@ -4,9 +4,10 @@
   "description": "A basic electron app to display quotes as notification bar",
   "main": "main.js",
   "scripts": {
-    "build" : "mocha tests/test.js && electron main.js",
+    "build" : "mocha tests/test.js && electron app/main.js",
+    "pretest": "mocha tests/pre.js",
     "test": "mocha tests/test.js",
-    "start": "electron main.js"
+    "start": "electron app/main.js"
   },
   "repository": {
     "type": "git",
