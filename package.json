@@ -4,6 +4,7 @@
   "description": "A basic electron app to display quotes as notification bar",
   "main": "main.js",
   "scripts": {
+    "build" : "mocha tests/test.js && electron main.js",
     "test": "mocha tests/test.js",
     "start": "electron main.js"
   },
@@ -15,9 +16,7 @@
     "desktop",
     "app",
     "electron",
-    "app",
     "basic",
-    "app",
     "notifications",
     "inspirational",
     "quotes"
@@ -31,5 +30,8 @@
   "dependencies": {
     "electron": "^4.0.0",
     "inspirational-quotes": "^1.0.5"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
   }
 }
