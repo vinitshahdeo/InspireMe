@@ -40,3 +40,5 @@ And it'll start packaging the electron app for the host platform.
 ### Author
 
 **Vinit Shahdeo**
+
+[![Inspirational Quotes](https://img.shields.io/badge/Inspirational-Quotes-dodgerblue.svg?style=for-the-badge)](https://github.com/vinitshahdeo/InspireMe) 
