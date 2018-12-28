@@ -41,4 +41,4 @@ And it'll start packaging the electron app for the host platform.
 
 **Vinit Shahdeo**
 
-[![Inspirational Quotes](https://img.shields.io/badge/Inspirational-Quotes-dodgerblue.svg?style=for-the-badge)](https://github.com/vinitshahdeo/InspireMe) 
+[![Inspire Me](https://img.shields.io/badge/Inspire-Me-red.svg?style=for-the-badge)](https://github.com/vinitshahdeo/InspireMe) [![Inspirational Quotes](https://img.shields.io/badge/Inspirational-Quotes-dodgerblue.svg?style=for-the-badge)](https://github.com/vinitshahdeo/InspireMe)  [![Desktop App](https://img.shields.io/badge/Desktop-App-lightgray.svg?style=for-the-badge)](https://github.com/vinitshahdeo/InspireMe) 
