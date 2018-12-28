@@ -31,3 +31,12 @@ You can downlaod MacOs specific packaged bundle in `package` folder. You can pac
 - **`electron-packager .`**
 
 And it'll start packaging the electron app for the host platform.
+
+### Useful Links
+
+- [inspirational-quotes](https://www.npmjs.com/package/inspirational-quotes)
+- [electron-packager](https://www.npmjs.com/package/electron-packager)
+
+### Author
+
+**Vinit Shahdeo**
